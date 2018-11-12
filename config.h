@@ -289,7 +289,7 @@
 #define PACKAGE_TARNAME "sgminer-vii"
 
 /* Define to the home page for this package. */
-#define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-VII"
+#define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 
 /* Define to the version of this package. */
 #define PACKAGE_VERSION "1.0.8"

@@ -590,7 +590,7 @@ PACKAGE_TARNAME='sgminer-vii'
 PACKAGE_VERSION='1.0.8'
 PACKAGE_STRING='sgminer-vii 1.0.8'
 PACKAGE_BUGREPORT=''
-PACKAGE_URL='https://github.com/MaynardMiner/sgminer-vii'
+PACKAGE_URL='https://github.com/KL0nLutiy/sgminer-vii'
 
 ac_unique_file="sgminer.c"
 # Factoring default headers for most tests.
@@ -1645,7 +1645,7 @@ Use these variables to override the choices made by `configure' or to help
 it to find libraries and programs with nonstandard names/locations.
 
 Report bugs to the package provider.
-sgminer-vii home page: <https://github.com/MaynardMiner/sgminer-vii>.
+sgminer-vii home page: <https://github.com/KL0nLutiy/sgminer-vii>.
 _ACEOF
 ac_status=$?
 fi
@@ -18143,7 +18143,7 @@ Configuration commands:
 $config_commands
 
 Report bugs to the package provider.
-sgminer-vii home page: <https://github.com/MaynardMiner/sgminer-vii>."
+sgminer-vii home page: <https://github.com/KL0nLutiy/sgminer-vii>."
 
 _ACEOF
 cat >>$CONFIG_STATUS <<_ACEOF || ac_write_fail=1

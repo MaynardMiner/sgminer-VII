@@ -151,7 +151,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.8"
 | #define PACKAGE_STRING "sgminer-vii 1.0.8"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.8"
 | /* end confdefs.h.  */
@@ -170,7 +170,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.8"
 | #define PACKAGE_STRING "sgminer-vii 1.0.8"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.8"
 | /* end confdefs.h.  */
@@ -235,7 +235,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.8"
 | #define PACKAGE_STRING "sgminer-vii 1.0.8"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.8"
 | #define STDC_HEADERS 1
@@ -296,7 +296,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.8"
 | #define PACKAGE_STRING "sgminer-vii 1.0.8"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.8"
 | #define STDC_HEADERS 1
@@ -567,7 +567,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.8"
 | #define PACKAGE_STRING "sgminer-vii 1.0.8"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.8"
 | #define STDC_HEADERS 1
@@ -743,7 +743,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.8"
 | #define PACKAGE_STRING "sgminer-vii 1.0.8"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.8"
 | #define STDC_HEADERS 1
@@ -830,7 +830,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.8"
 | #define PACKAGE_STRING "sgminer-vii 1.0.8"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.8"
 | #define STDC_HEADERS 1
@@ -969,7 +969,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.8"
 | #define PACKAGE_STRING "sgminer-vii 1.0.8"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.8"
 | #define STDC_HEADERS 1
@@ -1176,7 +1176,6 @@ config.status:1328: creating ccan/Makefile
 config.status:1328: creating lib/Makefile
 config.status:1328: creating sph/Makefile
 config.status:1328: creating config.h
-config.status:1509: config.h is unchanged
 config.status:1557: executing depfiles commands
 config.status:1557: executing libtool commands
 configure:19907: === configuring in submodules/jansson (/root/test/sgminer-VII/submodules/jansson)
@@ -1561,7 +1560,7 @@ PACKAGE_BUGREPORT=''
 PACKAGE_NAME='sgminer-vii'
 PACKAGE_STRING='sgminer-vii 1.0.8'
 PACKAGE_TARNAME='sgminer-vii'
-PACKAGE_URL='https://github.com/MaynardMiner/sgminer-vii'
+PACKAGE_URL='https://github.com/KL0nLutiy/sgminer-vii'
 PACKAGE_VERSION='1.0.8'
 PATH_SEPARATOR=':'
 PDCURSES_LIBS=''
@@ -1636,7 +1635,7 @@ gl_LIBOBJS=''
 gl_LTLIBOBJS=''
 gltests_LIBOBJS=''
 gltests_LTLIBOBJS=''
-gltests_WITNESS='IN_SGMINER_KL_GNULIB_TESTS'
+gltests_WITNESS='IN_SGMINER_VII_GNULIB_TESTS'
 host='x86_64-pc-linux-gnu'
 host_alias=''
 host_cpu='x86_64'
@@ -1678,7 +1677,7 @@ target_vendor='pc'
 #define PACKAGE_VERSION "1.0.8"
 #define PACKAGE_STRING "sgminer-vii 1.0.8"
 #define PACKAGE_BUGREPORT ""
-#define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
+#define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 #define PACKAGE "sgminer-vii"
 #define VERSION "1.0.8"
 #define STDC_HEADERS 1
