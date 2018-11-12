@@ -274,22 +274,22 @@
 /* #undef MAP_ANONYMOUS */
 
 /* Name of package */
-#define PACKAGE "sgminer-kl"
+#define PACKAGE "sgminer-vii"
 
 /* Define to the address where bug reports for this package should be sent. */
 #define PACKAGE_BUGREPORT ""
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "sgminer-kl"
+#define PACKAGE_NAME "sgminer-vii"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "sgminer-kl 1.0.8"
+#define PACKAGE_STRING "sgminer-vii 1.0.8"
 
 /* Define to the one symbol short name of this package. */
-#define PACKAGE_TARNAME "sgminer-kl"
+#define PACKAGE_TARNAME "sgminer-vii"
 
 /* Define to the home page for this package. */
-#define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-kl"
+#define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-VII"
 
 /* Define to the version of this package. */
 #define PACKAGE_VERSION "1.0.8"
