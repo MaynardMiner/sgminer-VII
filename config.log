@@ -151,7 +151,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.9"
 | #define PACKAGE_STRING "sgminer-vii 1.0.9"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.9"
 | /* end confdefs.h.  */
@@ -170,7 +170,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.9"
 | #define PACKAGE_STRING "sgminer-vii 1.0.9"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.9"
 | /* end confdefs.h.  */
@@ -235,7 +235,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.9"
 | #define PACKAGE_STRING "sgminer-vii 1.0.9"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.9"
 | #define STDC_HEADERS 1
@@ -296,7 +296,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.9"
 | #define PACKAGE_STRING "sgminer-vii 1.0.9"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.9"
 | #define STDC_HEADERS 1
@@ -567,7 +567,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.9"
 | #define PACKAGE_STRING "sgminer-vii 1.0.9"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.9"
 | #define STDC_HEADERS 1
@@ -743,7 +743,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.9"
 | #define PACKAGE_STRING "sgminer-vii 1.0.9"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.9"
 | #define STDC_HEADERS 1
@@ -830,7 +830,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.9"
 | #define PACKAGE_STRING "sgminer-vii 1.0.9"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.9"
 | #define STDC_HEADERS 1
@@ -969,7 +969,7 @@ configure: failed program was:
 | #define PACKAGE_VERSION "1.0.9"
 | #define PACKAGE_STRING "sgminer-vii 1.0.9"
 | #define PACKAGE_BUGREPORT ""
-| #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+| #define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 | #define PACKAGE "sgminer-vii"
 | #define VERSION "1.0.9"
 | #define STDC_HEADERS 1
@@ -1560,7 +1560,7 @@ PACKAGE_BUGREPORT=''
 PACKAGE_NAME='sgminer-vii'
 PACKAGE_STRING='sgminer-vii 1.0.9'
 PACKAGE_TARNAME='sgminer-vii'
-PACKAGE_URL='https://github.com/KL0nLutiy/sgminer-vii'
+PACKAGE_URL='https://github.com/MaynardMiner/sgminer-vii'
 PACKAGE_VERSION='1.0.9'
 PATH_SEPARATOR=':'
 PDCURSES_LIBS=''
@@ -1677,7 +1677,7 @@ target_vendor='pc'
 #define PACKAGE_VERSION "1.0.9"
 #define PACKAGE_STRING "sgminer-vii 1.0.9"
 #define PACKAGE_BUGREPORT ""
-#define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
+#define PACKAGE_URL "https://github.com/MaynardMiner/sgminer-vii"
 #define PACKAGE "sgminer-vii"
 #define VERSION "1.0.9"
 #define STDC_HEADERS 1

@@ -1,4 +1,4 @@
-AC_INIT([sgminer-vii], [1.0.9], [], [sgminer-vii], [https://github.com/KL0nLutiy/sgminer-vii])
+AC_INIT([sgminer-vii], [1.0.9], [], [sgminer-vii], [https://github.com/MaynardMiner/sgminer-vii])
 
 AC_PREREQ(2.59)
 AC_CANONICAL_SYSTEM
