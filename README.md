@@ -1,0 +1,2 @@
+# sgminer-VII
+sgminer-VII
