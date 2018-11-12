@@ -283,7 +283,7 @@
 #define PACKAGE_NAME "sgminer-vii"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "sgminer-vii 1.0.8"
+#define PACKAGE_STRING "sgminer-vii 1.0.9"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "sgminer-vii"
@@ -292,7 +292,7 @@
 #define PACKAGE_URL "https://github.com/KL0nLutiy/sgminer-vii"
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "1.0.8"
+#define PACKAGE_VERSION "1.0.9"
 
 /* Define to l, ll, u, ul, ull, etc., as suitable for constants of type
    'ptrdiff_t'. */
@@ -324,7 +324,7 @@
 #define USE_GIT_VERSION 1
 
 /* Version number of package */
-#define VERSION "1.0.8"
+#define VERSION "1.0.9"
 
 /* Define to l, ll, u, ul, ull, etc., as suitable for constants of type
    'wchar_t'. */
