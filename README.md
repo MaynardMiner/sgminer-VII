@@ -50,11 +50,9 @@ If building from git:
 
 sgminer-specific configuration options:
 
-``--disable-adl           Override detection and disable building with adl``
-
-``--disable-adl-checks``
-
-``--without-curses        Do not compile support for curses TUI``
+``--disable-adl           Override detection and disable building with adl
+--disable-adl-checks
+--without-curses        Do not compile support for curses TUI``
 
 Debian Example
 
@@ -67,11 +65,11 @@ If needed, place include headers (*.h files) from ADL_SDK_*<VERSION>*.zip in sgm
 
 Then:
 
-git submodule init
+``git submodule init
 git submodule update
 autoreconf -i
 CFLAGS="-O2 -Wall -march=native -std=gnu99" ./configure <options>
-make
+make``
 
 To compile a version that can be used accross machines, remove -march=native.
 
