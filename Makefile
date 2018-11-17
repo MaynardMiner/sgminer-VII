@@ -344,17 +344,17 @@ distuninstallcheck_listfiles = find . -type f -print
 am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \
   | sed 's|^\./|$(prefix)/|' | grep -v '$(infodir)/dir$$'
 distcleancheck_listfiles = find . -type f -print
-ACLOCAL = ${SHELL} /root/test/sgminer-VII/missing aclocal-1.15
+ACLOCAL = ${SHELL} /home/maynard/Downloads/sgminer-vii/missing aclocal-1.15
 ADL_CPPFLAGS = 
 ALLOCA = 
 AMTAR = $${TAR-tar}
 AM_DEFAULT_VERBOSITY = 0
 APPLE_UNIVERSAL_BUILD = 0
 AR = ar
-AUTOCONF = ${SHELL} /root/test/sgminer-VII/missing autoconf
-AUTOHEADER = ${SHELL} /root/test/sgminer-VII/missing autoheader
-AUTOMAKE = ${SHELL} /root/test/sgminer-VII/missing automake-1.15
-AWK = mawk
+AUTOCONF = ${SHELL} /home/maynard/Downloads/sgminer-vii/missing autoconf
+AUTOHEADER = ${SHELL} /home/maynard/Downloads/sgminer-vii/missing autoheader
+AUTOMAKE = ${SHELL} /home/maynard/Downloads/sgminer-vii/missing automake-1.15
+AWK = gawk
 BITSIZEOF_PTRDIFF_T = 
 BITSIZEOF_SIG_ATOMIC_T = 
 BITSIZEOF_SIZE_T = 
@@ -363,7 +363,7 @@ BITSIZEOF_WINT_T =
 BUILD_NUMBER = 
 CC = gcc
 CCDEPMODE = depmode=gcc3
-CFLAGS = -O2 -Wall -march=native -std=gnu99
+CFLAGS = -O2 -Wall -std=gnu99
 CPP = gcc -E
 CPPFLAGS = 
 CYGPATH_W = echo
@@ -467,19 +467,19 @@ INSTALL_STRIP_PROGRAM = $(install_sh) -c -s
 JANSSON_LIBS = submodules/jansson/src/.libs/libjansson.a
 LD = /usr/bin/ld -m elf_x86_64
 LDFLAGS = 
-LIBCURL_CFLAGS = 
+LIBCURL_CFLAGS = -I/usr/include/x86_64-linux-gnu
 LIBCURL_LIBS = -lcurl
 LIBGNU_LIBDEPS = 
 LIBGNU_LTLIBDEPS = 
 LIBOBJS = 
-LIBS = -lpthread 
+LIBS = -lncurses -lpthread 
 LIBTOOL = $(SHELL) $(top_builddir)/libtool
 LIPO = 
 LN_S = ln -s
 LTLIBOBJS = 
 LT_SYS_LIBRARY_PATH = 
 MAINT = #
-MAKEINFO = ${SHELL} /root/test/sgminer-VII/missing makeinfo
+MAKEINFO = ${SHELL} /home/maynard/Downloads/sgminer-vii/missing makeinfo
 MANIFEST_TOOL = :
 MATH_LIBS = -lm
 MKDIR_P = /bin/mkdir -p
@@ -548,10 +548,10 @@ VERSION = 1.0.9
 WCHAR_T_SUFFIX = 
 WINT_T_SUFFIX = 
 WS2_LIBS = 
-abs_builddir = /root/test/sgminer-VII
-abs_srcdir = /root/test/sgminer-VII
-abs_top_builddir = /root/test/sgminer-VII
-abs_top_srcdir = /root/test/sgminer-VII
+abs_builddir = /home/maynard/Downloads/sgminer-vii
+abs_srcdir = /home/maynard/Downloads/sgminer-vii
+abs_top_builddir = /home/maynard/Downloads/sgminer-vii
+abs_top_srcdir = /home/maynard/Downloads/sgminer-vii
 ac_ct_AR = ar
 ac_ct_CC = gcc
 ac_ct_DUMPBIN = 
@@ -585,7 +585,7 @@ host_vendor = pc
 htmldir = ${docdir}
 includedir = ${prefix}/include
 infodir = ${datarootdir}/info
-install_sh = ${SHELL} /root/test/sgminer-VII/install-sh
+install_sh = ${SHELL} /home/maynard/Downloads/sgminer-vii/install-sh
 libdir = ${exec_prefix}/lib
 libexecdir = ${exec_prefix}/libexec
 localedir = ${datarootdir}/locale
@@ -621,7 +621,7 @@ EXTRA_DIST = example.conf m4/gnulib-cache.m4 \
 SUBDIRS = lib submodules ccan sph
 sgminer_CPPFLAGS = $(PTHREAD_FLAGS) -std=gnu99 $(JANSSON_CPPFLAGS) \
 	-I$(top_builddir)/lib -I$(top_srcdir)/lib  \
-	 $(ADL_CPPFLAGS) $(am__append_2) \
+	-I/usr/include/x86_64-linux-gnu $(ADL_CPPFLAGS) $(am__append_2) \
 	$(am__append_3)
 sgminer_LDFLAGS = $(PTHREAD_FLAGS) $(am__append_1)
 sgminer_LDADD = $(DLOPEN_FLAGS) -lcurl submodules/jansson/src/.libs/libjansson.a -lpthread \

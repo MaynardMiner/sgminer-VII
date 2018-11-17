@@ -80,7 +80,7 @@
 #define HAVE_BUILTIN_TYPES_COMPATIBLE_P 1
 
 /* Defined to 1 if curses TUI support is wanted */
-/* #undef HAVE_CURSES */
+#define HAVE_CURSES 1
 
 /* Define to 1 if you have the declaration of `memmem', and to 0 if you don't.
    */
